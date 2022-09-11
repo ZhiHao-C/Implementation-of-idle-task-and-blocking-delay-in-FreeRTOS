@@ -1,0 +1,61 @@
+Dependencies for Project 'FreeRTOS', Target 'Target 1': (DO NOT MODIFY !)
+F (..\User\main.c)(0x631B43E0)(--c99 -c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I..\Freertos\include -I..\Freertos\portable\RVDS\ARM_CM3 -I..\User -I..\Freertos-I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"-D__UVISION_VERSION="515" -D_RTE_ -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\Freertos\include\FreeRTOS.h)(0x631B31AD)
+I (..\Freertos\include\FreeRTOSConfig.h)(0x631B37BF)
+I (..\Freertos\include\projdefs.h)(0x6319CA03)
+I (..\Freertos\include\portable.h)(0x63189AEA)
+I (..\Freertos\include\portmacro.h)(0x631B3C23)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\keil5 MDK\ARM\ARMCC\include\stddef.h)(0x54C245B8)
+I (..\Freertos\include\list.h)(0x6318A13F)
+I (..\Freertos\include\task.h)(0x631B4319)
+F (..\Freertos\portable\RVDS\ARM_CM3\port.c)(0x631B4319)(--c99 -c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I..\Freertos\include -I..\Freertos\portable\RVDS\ARM_CM3 -I..\User -I..\Freertos-I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"-D__UVISION_VERSION="515" -D_RTE_ -DARMCM3-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (..\Freertos\include\FreeRTOS.h)(0x631B31AD)
+I (..\Freertos\include\FreeRTOSConfig.h)(0x631B37BF)
+I (..\Freertos\include\projdefs.h)(0x6319CA03)
+I (..\Freertos\include\portable.h)(0x63189AEA)
+I (..\Freertos\include\portmacro.h)(0x631B3C23)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\keil5 MDK\ARM\ARMCC\include\stddef.h)(0x54C245B8)
+I (..\Freertos\include\list.h)(0x6318A13F)
+I (..\Freertos\include\task.h)(0x631B4319)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x540FF94C)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x50B2CC4C)
+F (..\Freertos\list.c)(0x63189703)(--c99 -c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I..\Freertos\include -I..\Freertos\portable\RVDS\ARM_CM3 -I..\User -I..\Freertos-I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"-D__UVISION_VERSION="515" -D_RTE_ -DARMCM3-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (..\Freertos\include\FreeRTOS.h)(0x631B31AD)
+I (..\Freertos\include\FreeRTOSConfig.h)(0x631B37BF)
+I (..\Freertos\include\projdefs.h)(0x6319CA03)
+I (..\Freertos\include\portable.h)(0x63189AEA)
+I (..\Freertos\include\portmacro.h)(0x631B3C23)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\keil5 MDK\ARM\ARMCC\include\stddef.h)(0x54C245B8)
+I (..\Freertos\include\list.h)(0x6318A13F)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdlib.h)(0x54C245B8)
+F (..\Freertos\include\FreeRTOSConfig.h)(0x631B37BF)()
+F (..\Freertos\include\portmacro.h)(0x631B3C23)()
+F (..\Freertos\include\FreeRTOS.h)(0x631B31AD)()
+F (..\Freertos\include\portable.h)(0x63189AEA)()
+F (..\Freertos\include\projdefs.h)(0x6319CA03)()
+F (..\Freertos\task.c)(0x631B4528)(--c99 -c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I..\Freertos\include -I..\Freertos\portable\RVDS\ARM_CM3 -I..\User -I..\Freertos-I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"-D__UVISION_VERSION="515" -D_RTE_ -DARMCM3-o .\objects\task.o --omf_browse .\objects\task.crf --depend .\objects\task.d)
+I (..\Freertos\include\FreeRTOS.h)(0x631B31AD)
+I (..\Freertos\include\FreeRTOSConfig.h)(0x631B37BF)
+I (..\Freertos\include\projdefs.h)(0x6319CA03)
+I (..\Freertos\include\portable.h)(0x63189AEA)
+I (..\Freertos\include\portmacro.h)(0x631B3C23)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\keil5 MDK\ARM\ARMCC\include\stddef.h)(0x54C245B8)
+I (..\Freertos\include\list.h)(0x6318A13F)
+I (..\Freertos\include\task.h)(0x631B4319)
+F (..\Freertos\include\task.h)(0x631B4319)()
+F (..\DOC\readme.txt)(0x6316EB3B)()
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x50B2CC4C)(--cpu Cortex-M3 --li -g --apcs=interwork -I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"--pd "__UVISION_VERSION SETA 515" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x53FEF2AA)(--c99 -c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I..\Freertos\include -I..\Freertos\portable\RVDS\ARM_CM3 -I..\User -I..\Freertos-I E:\stm32test\FreeRTOS空闲任务与阻塞延时的实现\Project\RTE-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include"-I "E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include"-D__UVISION_VERSION="515" -D_RTE_ -DARMCM3-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x540FF94C)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (E:\keil5 MDK\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x50B2CC4C)
